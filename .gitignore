@@ -1,0 +1,52 @@
+# ========== UNITY GENERATED FOLDERS ==========
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+UserSettings/
+
+# ========== MEMORY CAPTURE ==========
+MemoryCaptures/
+
+# ========== UNITY CACHE ==========
+# Asset import cache
+Library/ArtifactDB
+
+# ========== VISUAL STUDIO / RIDER ==========
+.vs/
+.idea/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# ========== OS GENERATED ==========
+.DS_Store
+Thumbs.db
+
+# ========== UNITY CLOUD BUILD ==========
+sysinfo.txt
+
+# ========== ADDRESSABLES ==========
+ServerData/
+
+# ========== DOTS ==========
+.DOTS/
+
+# ========== CRASH REPORTS ==========
+*.stacktrace
+
+# ========== IL2CPP ==========
+il2cppOutput/
+
+# ========== PACKAGES LOCK ==========
+# Keep this file tracked!
+# Packages/packages-lock.json
